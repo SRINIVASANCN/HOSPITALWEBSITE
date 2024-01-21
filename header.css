@@ -1,0 +1,51 @@
+.abc {
+    border-top: 1px;
+    border-bottom: 1px;
+    border-color: rgb(36, 162, 212);
+    border-top-style:ridge ;
+    border-bottom-style: ridge;
+    height: 270px;
+    background-image: url('hospitaldp.avif');
+    background-size: cover;
+    border: solid;
+    border-width: 2px;
+    border-color: rgb(0,0,0);
+    background-color :rgb(0,255,0);
+    color:#000080;
+    
+  }
+  .bca{
+    display:grid;
+    grid-template-columns: 1fr,1fr;
+   
+  }
+  
+  .bca1{
+    margin-top: 55px;
+    margin-bottom:30px;
+    text-align: center;
+    font-weight:bolder;
+    font-size: 50px;
+    color:azure;
+  }
+  .bca2{
+    width:200px;
+    margin-bottom:015px;
+    margin-left:90px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  p{
+    display: inline;
+    color:aqua;
+    
+   
+  }
+  .bca3{
+       margin-left: 90px;
+       font-weight: bold;
+       font-family:Arial, Helvetica, sans-serif;
+       font-size:20px;
+      
+  }

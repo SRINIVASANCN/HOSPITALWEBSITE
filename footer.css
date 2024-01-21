@@ -1,0 +1,14 @@
+.footer-class{
+    font-family: Arial;
+    border-top: 1px;
+    border-style: hidden;
+    border-bottom: 1px;
+    border-color: aliceblue;
+    border-top-style:ridge ;
+    border-bottom-style: ridge;
+    background-color:azure;
+    display:flex;
+    flex:1,1,1,1,1;
+    justify-content: space-evenly;
+    font-size: 17px;
+   }
